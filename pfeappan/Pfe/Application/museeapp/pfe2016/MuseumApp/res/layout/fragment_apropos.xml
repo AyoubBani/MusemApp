@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/txtLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="28dp"
+        android:text="A propos"
+        android:textSize="33dp" />
+
+         
+    
+
+      <TextView
+          android:id="@+id/txtLabel2"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_alignParentLeft="true"
+          android:layout_below="@+id/txtLabel"
+          android:layout_marginTop="21dp"
+          android:text="         -L&apos;application &apos;musee app&apos; c&apos;est une application mobile qui est soumet au visiteur en leur permettant un acces rapide a l&apos;information en passant par un scan QR ou une recherche vocal ou une recherch simple tous cela se fait de maniere simple"
+          android:textSize="20dp" />
+
+      <ImageView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_below="@+id/txtLabel2"
+          android:layout_centerHorizontal="true"
+          android:layout_marginTop="32dp"
+          android:src="@drawable/ic_action_about" />
+
+</RelativeLayout>

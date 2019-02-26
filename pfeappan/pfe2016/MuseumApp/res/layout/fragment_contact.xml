@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+           <TextView
+               android:id="@+id/txtLabel2"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_above="@+id/txtLabel3"
+               android:layout_centerHorizontal="true"
+               android:layout_marginBottom="18dp"
+               android:text="tel +00312909864"
+               android:textSize="14dp" />
+
+           <TextView
+               android:id="@+id/txtLabel1"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_above="@+id/txtLabel2"
+               android:layout_centerHorizontal="true"
+               android:layout_marginBottom="32dp"
+               android:text="Adresse : 27,bd london leiceter city rue mehrez"
+               android:textSize="14dp" />
+
+           <TextView
+               android:id="@+id/txtLabel"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_alignParentTop="true"
+               android:layout_centerHorizontal="true"
+               android:layout_marginTop="38dp"
+               android:text="Contactez-nous"
+               android:textSize="33dp" />
+
+           <TextView
+               android:id="@+id/txtLabel3"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_centerHorizontal="true"
+               android:layout_centerVertical="true"
+               android:text="Email : musee@gmail.com"
+               android:textSize="14dp" />
+
+</RelativeLayout>

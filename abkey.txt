@@ -1,0 +1,13 @@
+PDA OHA API LIMO OpenMoko
+LIFO FIFO 
+OS 
+kernel 
+layer
+C/C++ 
+Wi-Fi SMS GPS
+
+splash screen
+listview 
+(Navigation Drawer
+8-	Google maps 
+ID 

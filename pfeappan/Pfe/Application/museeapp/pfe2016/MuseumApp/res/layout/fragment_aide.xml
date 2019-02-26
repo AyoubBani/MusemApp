@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+      <TextView
+          android:id="@+id/txtLabel1"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_alignParentLeft="true"
+          android:layout_below="@+id/txtLabel"
+          android:layout_marginTop="15dp"
+          android:text="3) cette interface vous permet d&apos;effectuer une recherche vocal"
+          android:textSize="16dp" />
+
+      <TextView
+          android:id="@+id/txtLabel"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_alignParentLeft="true"
+          android:layout_alignParentTop="true"
+          android:layout_marginTop="160dp"
+          android:text="2) cette interface vous permet de voir le catalogue de tous les ouvres du musee"
+          android:textSize="16dp" />
+
+      <TextView
+          android:id="@+id/txtLabel2"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_alignBottom="@+id/txtLabel"
+          android:layout_alignParentLeft="true"
+          android:layout_marginBottom="59dp"
+          android:text="1) cette interface vous permet d&apos;effectuer un scan "
+          android:textSize="16dp" />
+
+       <TextView
+           android:id="@+id/txtLabel3"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_alignParentLeft="true"
+           android:layout_below="@+id/txtLabel1"
+           android:layout_marginTop="26dp"
+           android:text="4) cette interface vous permet de visualiser la video, l'enregistement audio et l'image relatif a chaque oeuvre"
+           android:textSize="16dp" />
+
+</RelativeLayout>

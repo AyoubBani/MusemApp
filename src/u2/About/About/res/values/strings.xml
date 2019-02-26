@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">About</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<string name="label_option_fullscreen">Enable fullscreen</string>
+<string name="label_option_scrollable">Scrollable slides</string>
+<string name="label_option_custom_fragments">Enable custom fragments</string>
+<string name="label_option_permissions">Enable permission request</string>
+<string name="label_option_skip_enabled">Enable skip button</string>
+<string name="label_option_finish_enabled">Enable finish button</string>
+<string name="label_option_open_new_activity">Open new activity after intro</string>
+<string name="label_start_intro">A PROPOS</string>
+<string name="title_material_metaphor">A propos de l application </string>
+<string name="title_material_bold">A propos du musee du louvre</string>
+<string name="title_material_motion">l objectif de l application </string>
+<string name="title_material_shadow">utilisation </string>
+<string name="description_material_metaphor">cette application a ete creer  dans le cadre des projet de fin d etudes presente pour l obtention du deplome de la licence fondamentale en science mathematique et  informatique 
+    .</string>
+<string name="description_material_bold">Le musee du Louvre est un musee d art et d antiquites situe au centre de Paris dans le palais du Louvre. C est l un des plus grands musees du monde, et le plus grand de Paris, par sa surface d exposition de 60 600 m27, et ses collections qui comprennent pres de 460 000 oeuvres. .</string>
+<string name="description_material_motion">L objectif de l application est de rendre les visites des musees plus riches et plus
+reussies a travers la satisfaction des gouts  de nos visiteurs .</string>
+
+<string name="description_material_shadow">l application vous permet de scanner le code QR de l oeuvre et puis elle vous affiche un article qui contient une image une video et un audio qui vont vous presenter un ensemble d informations 
+comme vous pouvez consulter nos oeuvre sur la liste des oeuvres cette liste vous donne la possibilité de partager l image de l oeuvre et aussi de decouvrir l article associer .</string>
+<string name="title_permissions">Visiter le musee .</string>
+<string name="description_permissions">Le musee est ouvert tous les jours de 10h. a 18h. sauf le lundi et les jours feries sous reserve de dispositions particulieres a certains etablissements. Le chef d etablissement peut decider, en accord avec le directeur des affaires culturelles, de modifier ces horaires pour des evenements exceptionnels.
+
+L acces aux expositions temporaires et aux activites pedagogiques et culturelles est payant. Les differentes tarifications, reductions ou exonerations applicables sont fixees par deliberation du conseil municipal.
+.</string>
+<string name="label_grant_permissions">Please grant the permissions before proceeding.</string><string name="title_fragment_login">This is a custom fragment.</string>
+<string name="hint_fake_username">Fake username</string><string name="hint_fake_password">Fake password</string><string name="label_fake_login">Fake login</string>
+<string name="label_fake_login_loading">Loading…</string>
+<string name="label_fake_login_success">Logged in ☺</string>
+<string name="label_fake_login_success_message">Successfully faked login.</string>
+<string name="label_fill_out_form">Please fill out the form before proceeding.</string>
+<string name="title_fragment_custom">Take off!</string>
+  <string name="mi_content_description_skip">Skip</string>
+    <string name="mi_content_description_next">Next</string>
+    <plurals name="mi_label_grant_permission">
+        <item quantity="one">Grant permission</item>
+        <item quantity="other">Grant permissions</item>
+    </plurals>
+</resources>

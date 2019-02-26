@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="bg_gradient_start">#31244e</color>
+    <color name="bg_gradient_end">#6b394c</color>
+     <color name="seekbar_bg">#F48FB1</color>
+     <color name="seekbar_sec_progress">#4DD0E1</color>
+     <color name="seekbar_progress">#EA80FD</color>
+</resources>
